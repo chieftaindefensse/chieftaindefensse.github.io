@@ -102,7 +102,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
