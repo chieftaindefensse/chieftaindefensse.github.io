@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -1028,10 +1028,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sFGzrhlvIh {
-  padding-top: 120px;
-  padding-bottom: 90px;
-}
 .cid-sFGzrhlvIh .icons-media-container {
   display: flex;
   -webkit-justify-content: center;
@@ -1074,7 +1070,8 @@ a {
   color: #ffffff;
 }
 .cid-sFGzrhlvIh H1 {
-  color: #fafafa;
+  color: #568d96;
+  text-align: left;
 }
 .cid-sFGzrhlvIh .mbr-text,
 .cid-sFGzrhlvIh .mbr-section-btn {
