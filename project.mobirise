@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "html.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -106,7 +106,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "html.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Chieftain Defense",
